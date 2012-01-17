@@ -37,6 +37,8 @@ public class ProyectoActivity extends Activity {
         
         // -- Recuperar cookies!
         CookieSyncManager.createInstance(getApplicationContext());
+        
+        // wena ctm!!!!
     }
     
     
