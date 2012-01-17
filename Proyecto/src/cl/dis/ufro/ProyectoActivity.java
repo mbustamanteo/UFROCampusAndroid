@@ -42,6 +42,10 @@ public class ProyectoActivity extends Activity {
     }
     
     
+    public void nuevoMetodo(){
+    	
+    }
+    
     /*
      * 	Conectarse al campus
      */
