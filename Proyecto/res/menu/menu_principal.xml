@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/itemTareas" android:title="Ver tareas"></item>
+    <item android:id="@+id/itemRecursos" android:title="Ver recursos"></item>
+
+    
+
+</menu>
